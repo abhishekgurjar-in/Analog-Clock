@@ -22,7 +22,6 @@ The **Analog Clock** is a real-time clock that mimics the appearance and functio
 - **CSS**: Applied to style the clock, including positioning the hands and adding smooth animations.
 - **JavaScript**: Implemented to handle the clock's time calculations, update the DOM, and manage the hands' rotation.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
